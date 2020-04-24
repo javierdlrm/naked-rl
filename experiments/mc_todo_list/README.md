@@ -1,6 +1,8 @@
 # Monte Carlo To-Do List
 
-Use of Monte Carlo method to analyze the optimal policy to decide which tasks should be done first.
+Use of Monte Carlo method to compare policies and find the optimal one to carry out the tasks.
+
+> Inspired by an article of [Sau Sheong](https://towardsdatascience.com/@sausheong) in [Medium](https://towardsdatascience.com/optimise-your-todo-list-with-monte-carlo-simulations-in-python-1682a8a5eb84).
 
 ## Concepts
 
