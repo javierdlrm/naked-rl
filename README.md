@@ -1,2 +1,3 @@
 # naked-rl
-Self-explained reinforcement learning experiments for self-education
+Self-described Reinforcement Learning repository for self-education
+

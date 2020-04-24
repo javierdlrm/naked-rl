@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "naked-rl"
+version = "0.1.0"
+description = "Self-described Reinforcement Learning experiments for self-education."
+authors = ["Javier de la Rúa Martínez <javierdlrm@outlook.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+flake8 = "^3.7.9"
+mypy = "^0.770"
+black = "^19.10b0"
+numpy = "^1.18.3"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
